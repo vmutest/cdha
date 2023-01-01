@@ -1,0 +1,482 @@
+Câu 1. Giải phẫu bình thuờng của hệ hô hấp thì:
+Phổi phải có 2 thuỳ, phổi trái có 3 thuỳ
+* Phổi phải có 3 thuỳ, phổi trái có 2 thuỳ
+Phổi phải có 2 thuỳ, phổi trái có 2 thuỳ
+Phổi phải có 3 thuỳ, phổi trái có 3 thuỳ
+
+Câu 2.  Theo giải phẫu cây phế quản thì:
+Phế quản gốc trái dốc hơn và to hơn phế quản gốc phải
+Phế quản gốc trái dốc hơn và nhỏ hơn phế quản gốc phải
+* Phế quản gốc phải dốc hơn và to hơn phế quản gốc trái
+Phế quản gốc phải dốc hơn và nhỏ hơn phế quản gốc trái
+
+Câu 3.  Trên phim chụp Xquang phổi thẳng chuẩn thì:
+Vòm hoành trái cao hơn vòm hoành phải khoảng 2,5cm
+Vòm hoành trái cao hơn vòm hoành phải khoảng 1,5cm
+* Vòm hoành phải cao hơn vòm hoành phải khoảng 1,5cm
+Vòm hoành phải cao hơn vòm hoành trái khoảng 2,5cm
+
+Câu 4.  Trên phim chụp Xquang phổi nghiêng chuẩn thì:
+Trên phim nghiêng phải 2 vòm hoành cắt nhau
+* Trên phim nghiêng trái 2 vòm hoành cắt nhau
+Trên phim nghiêng trái 2 vòm hoành song song
+Chụp ở tư thế nào thì 2 vòm hoành vẫn song song với nhau
+
+Câu 5.  Trên phim Xquang tim phổi dấu hiệu bóng mờ có ý nghĩa:
+Thể hiện tổn thuơng dạng viêm
+Thể hiện tổn thuơng có hình bóng mờ
+* Nếu 2 vùng có tỉ trọng dịch, nằm cạnh nhau trên cùng một mặt phẳng, tia trung tâm đi vào tiếp tuyến với bề mặt tiếp xúc, thì giới hạn giữa 2 vùng bị xoá tại vị trí tiếp xúc
+Nếu 2 vùng có tỉ trọng dịch, nằm cạnh nhau trên cùng một mặt phẳng, tia trung tâm đi vào tiếp tuyến với bề mặt tiếp xúc, thì giới hạn giữa 2 vùng tại vị trí tiếp xúc đuợc thể hiện rỏ trên phim.
+.
+
+Câu 6.  Trên phim Xquang phổi, để xác định một hình mờ rốn phổi có nguồn gốc từ mạch máu hay một khối u ta dựa vào dấu hiệu nào:
+Dấu hiệu cổ - ngực
+* Dấu hiệu hội tụ rốn phổi
+Dấu hiệu che phủ rốn phổi
+Dấu hiệu ngực bụng
+
+Câu 7.  Sóng siêu âm truyền tốt nhất trong môi trường nào dưới đây
+Không khí
+Mô mỡ
+Parafin
+* Nước
+
+Câu 8.  Sóng siêu âm khó đi qua cơ quan nào sau đây
+Phần mềm và mỡ
+Cơ 
+* Phổi
+Nước
+
+Câu 9.  Nguyên nhân sự suy giảm sóng siêu âm gồm:
+Tán xạ
+Nhiễu xạ
+Hấp thụ: một phần năng lượng thành nhiệt năng
+* Tất cả các ý trên
+
+Câu 10.  Siêu âm kiểu A có tính chất sau:
+*Dùng đầu dò thu-phát gián đoạn
+Dùng đầu dò liên tục
+Dùng đầu dò liên tục cùng với thời gian
+Ứng dụng trong siêu tim
+
+Câu 11.  Tính chất nào không thuộc siêu âm kiểu B: 
+Tín hiệu phản hồi biểu hiện chấm sáng
+Độ sáng biểu hiện cường độ sóng phản hồi
+Nếu di chuyển đầu dò theo hướng nhất định sẽ vẽ được bề mặt của vật cần khám( siêu âm hai bình diện)
+* Dùng đầu dò thu phât gián đoạn
+
+Câu 12.  Siêu âm kiểu TM là:
+Thể hiện hình ảnh kiểu B theo thời gian
+Nếu mặt phản hồi đứng yên sẽ biểu hiện đường thẳng, nếu di động sẽ vẽ đường cong biểu hiện chuyển động
+Siêu âm kiểu TM được ứng dụng trong thăm khám tim
+* Tất cả các ý trên
+
+Câu 13.  Đầu dò cover có tần số:
+1,5MHz
+2,5 MHz
+* 3,5 MHz
+4,5 MHz
+
+Câu 14.  Đầu giò linear có tần số:
+1,5MHz
+2,5 MHz
+3,5 MHz
+* 7,5 MHz
+
+Câu 15.  Cách xác định sử dụng đúng đầu giò trên máy siêu âm là:
+Dựa theo dấu quy ước trên đầu giò
+* Kéo đầu dò ngang qua một bên thì hình sẽ chạy ngược chiều 
+Kéo đầu dò ngang qua một bên thì hình sẽ chạy cùng chiều
+Tất cả các ý trên 
+
+Câu 16.  Dựa theo hình ảnh Xquang, các triệu chứng: Khe khớp hẹp nhẹ; Loãng xương khu trú ở 2 bờ khớp; Bờ khớp không đều. Thuộc giai đoạn nào trong viêm đĩa đệm đốt sống do lao:
+* Giai đoạn 1.
+Giai đoạn 2.
+Giai đoạn 3.
+Giai đoạn 4.
+
+Câu 17.  Lao cột sống cần chẩn đoán phân biệt với các bệnh lý:
+Biến dạng cột sống bẩm sinh.
+Viêm cột sống dính khớp, Thoái khớp.
+Viêm đĩa đệm cột sống do lao
+* A và B
+
+Câu 18.  Hình ảnh lỗ đột ở các xương theo trục cơ thể gặp trong bệnh:
+U tuỷ sống.
+Hans Schuller Christian.
+Bệnh về máu.
+* U đa tương bào (Kahler).
+
+Câu 19.  U xương lành tính thường gặp ở: 
+Tuổi trẻ.
+Tuổi già.
+* Tuổi đang phát triển.
+Tuổi trưởng thành.
+
+Câu 20.  U xương ác tính thường gặp ở:
+Tuổi trẻ.
+Tuổi đang phát triển.
+* Tuổi trưởng thành.
+Mọi lứa tuổi.
+
+Câu 21.  Dấu hiệu sớm của lao xương trên hình ảnh X quang là:
+Gặm mòn xương.
+Hẹp khe khớp.
+Loãng xương ở đầu xương.
+* Loãng xương dưới sụn khớp.
+
+Câu 22.  Thất phải thấy rõ nhất trên tư thế:
+* Nghiêng trái.
+Nghiêng phải
+Chếch trước phải.
+Chếch trước trái.
+
+Câu 23.  Quai động mạch chủ thấy rõ nhất trên tư thế:
+Nghiêng trái 
+Nghiêng phải 
+* Chếch trước trái. 
+Chếch trước phải. 
+
+Câu 24.  Thất trái thấy rõ nhất trên tư thế:
+* Nghiêng trái.
+Nghiêng phải
+Chếch trước phải.
+Chếch trước trái.
+
+Câu 25.  Thất trái to thường gặp nhất trong trường hợp:
+Hẹp van hai lá.
+Hở van hai lá.
+Hẹp van động mạch chủ.
+* Hẹp hở van động mạch chủ.
+
+Câu 26.  Trong bệnh hẹp van hai lá có thể thường thấy:
+Cung dưới trái nỗi.
+Cung dưới phải nỗi
+Chèn đẩy thực quản ở 1/3 dưới.
+* Bờ trái có hình 4 cung và phổi hai bên sung huyết.
+
+Câu 27.  Đầu dò siêu âm ổ bụng cover có tính chất:
+* Độ phân giải kém nhưng độ xuyên sâu tốt
+Độ phân giải kém và độ xuyên sâu kém
+Độ phân giải cao và độ xuyên sâu kém
+Độ phân giải cao và độ xuyên sâu tốt
+
+Câu 28.  Bộ phận nào của máy siêu âm có tính chất vừa thu vừa phát sóng âm:
+Bộ xử lý ở thân máy
+* Đầu dò siêu âm
+Bộ lưu trử dữ liệu
+Tất cả các ý trên 
+
+Câu 29.  Cấu trúc trống âm trong cơ thể thường là:
+* Các mạch máu
+Gan
+Thận
+Lách
+
+Câu 30.  Hình ảnh đồng hồi âm thường gặp trong:
+Các mạch máu
+* Gan bình thường
+U máu
+Sỏi thận
+
+Câu 31.  Hình ảnh tăng âm thường gặp trong, ngoại trừ:
+Sỏi 
+Bao thận
+* Nang gan
+Thành mạch máu
+
+Câu 32.  Bản chất bên trong của cấu trúc hỗn hợp âm là:
+Chứa dịch
+Chứa tổ chức tăng âm
+Chứa nước
+* Chứa cả dịch và tổ chức tăng âm
+
+Câu 33.  Đầu dò linear có tính chất:
+Độ phân giải kém nhưng độ xuyên sâu tốt
+Độ phân giải kém và độ xuyên sâu kém
+* Độ phân giải cao và độ xuyên sâu kém
+Độ phân giải cao và độ xuyên sâu tốt
+
+Câu 34.  Thời điểm siêu âm gan tốt nhất vào:
+* Buổi sáng
+Buổi chiều
+Buổi tối
+Sau ăn
+
+Câu 35.  Tư thế siêu âm tốt nhất cho bệnh nhân khi siêu âm gan là:
+Ngồi
+* Nằm ngữa
+Đứng
+Tất cả các tư thế trên
+
+Câu 36.  Dây chằng, mạc chằng nào không cố định gan
+Mạc chằng liềm
+Mạc chằng vành
+Mạc chằng tam giác phải và trái
+* Mạc treo gan tụy
+
+Câu 37.  Bệnh Cronh thường gặp ở:
+Đoạn tá tràng
+* Đoạn cuối hồi tràng
+Đoạn hỗng tràng
+Đoạn mang tràng
+
+Câu 38.  Phương tiện chẩn đoán hình ảnh tốt nhất dùng để chẩn đoán xác định u máu gan là:
+Siêu âm
+Chụp xquang ổ bụng không chuẩn bị
+CT-scaner
+* MRI
+
+Câu 39.  U tuyến gan thuờng gặp ở:
+Phụ nữ mãn kinh
+Nam giới > 40 tuổi
+* Phụ nữ trẻ thường sử dụng thuốc tránh thai đuờng uống
+Nam giới < 30 tuổi
+
+Câu 40.  Trong chẩn đoán ban đầu ung thư gan nguyên phát cần kết hợp chẩn đoán hình ảnh và định luợng tumor marker nào sau đây:
+* Alphafetoprotein
+Carbohydrate antigen 15-3
+Carbohydrate antigen 19-9
+Carbohydrate antigen 72-4
+
+Câu 41.  Hình ảnh điển hình nhất của ung thư tế bào gan trên chụp CLVT có tiêm thuốc cản quang là:
+* Trước tiêm là một vùng giảm tỉ trọng; bắt thuốc nhanh, mạnh thì động mạch và thải thuốc nhanh thì tĩnh mạch.
+Trước tiêm là một vùng giảm tỉ trọng; bắt thuốc chậm thì động mạch và thải thuốc nhanh thì tĩnh mạch.
+Trước tiêm là một vùng giảm tỉ trọng; bắt thuốc nhanh, mạnh thì động mạch và thải thuốc chậm thì tĩnh mạch.
+Trước tiêm là một vùng giảm tỉ trọng; bắt thuốc chậm thì động mạch và thải thuốc chậm thì tĩnh mạch.
+
+Câu 42.  Trên phim chụp bụng không chuẩn bị, bệnh lý thủng dạ dày biểu hiện bằng hình ảnh:
+Hình ảnh mức dịch-hơi chân rộng vòm thấp
+Hình ảnh mức dịch-hơi chân hẹp vòm cao
+* Hình liềm hơi dưới hoành
+Hình lỗ thủng dạ dày tăng cản quang
+
+Câu 43.  Các phương pháp có thể sử dụng để thăm khám bộ máy vận động:
+Xquang thuờng quy, chụp cắt lớp vi tính và chụp cộng huởng từ.
+Siêu âm.
+Chụp xạ hình xương, Chụp khớp cản quang.
+* Tất cả các phương pháp trên.
+
+Câu 44.  Xương dài có cấu trúc gồm các phần:
+* Chỏm xương, thân xương và cổ xương.
+Chỏm xương, thân xuơng và màng xương.
+Thân xương, màng xương và vỏ xương.
+Màng xương, vỏ xương và tuỷ xương.
+
+Câu 45.  Chỉ định chụp UIV:
+* Các bất thuờng bẩm sinh hệ tiết niệu.
+Suy thận và các nguyên nhân gây vô niệu.
+Đái tháo đường có suy thận.
+Tất cả các chỉ định trên.
+
+Câu 46.  Chống chỉ định chụp UIV:
+* Suy thận và các nguyên nhân gây vô niệu.
+Chấn thương thận, tiết niệu.
+U thận, u đuờng bài xuất
+Nhiễm trùng tiết niệu.
+
+Câu 47.  Trong chụp UIV, muốn đánh giá nhu mô thận ta nên chụp vào thời điểm nào sau tiêm:
+* 1 phút
+5 phút
+10 phút
+15 phút
+
+Câu 48.  Trong chụp UIV, muốn đánh giá hình thái các đìa bể thận và niệu quản ta nên chụp vào thời điểm nào sau tiêm:
+Ngay sau tiêm
+* 5-15 phút
+15-20 phút
+30 phút
+
+Câu 49.  Trong chụp UIV, trong bệnh lý lao thận cần phải ép thì ta nên ép để chụp vào thời điểm nào sau tiêm:
+3-5 phút
+* 5-7 phút
+10-15 phút
+15-20 phút
+
+Câu 50.  Trong chụp UIV, nên tránh ép trong các truờng hợp:
+Lao thận, u niệu quản.
+* Chấn thương thận, bít tắc niệu quản.
+Chấn thương thận, lao thận.
+Tất cả các trường hợp trên.
+
+Câu 51.  Xơ gan trên hình siêu âm là:
+* Nhu mô gan thô nhiều nốt tân tạo
+Đường bờ đều
+Góc gan nhọn
+Tĩnh mạch chủ dưới giãn
+
+Câu 52.  Xơ gan trên hình ảnh siêu âm thường kèm theo:
+Viêm tụy
+Viêm thận
+* Lách to
+Tất cả các ý trên
+
+Câu 53.  Nguyên nhân gây xơ gan, ngoại trừ
+Viêm gan
+Rượu
+Rối loạn chuyển hóa, thuốc
+* Viêm túi mật
+
+Câu 54.  Thay đổi hình thái trong bệnh lý xơ gan trên hình ảnh dựa vào:
+Bờ gan
+Kích thước
+Nhu mô không đều
+* Tất cả các ý trên
+
+Câu 55.  Dấu hiệu nào không thuộc tăng áp lực tĩnh mạch cửa trong xơ gan:
+Lách to
+TMC giãn	
+* TM chủ dưới giãn
+Dịch ổ bụng
+
+Câu 56.  HCC trên hình ảnh siêu âm có đặc điểm:
+Gây giãn đường mật trong gan
+Không đè đẩy các cấu trúc xung quanh
+* Thường là khối tăng âm, viềm ngoài giảm âm
+Khối tăng âm đồng nhất
+
+Câu 57.  U máu trong nhu mô gan có đặc điểm sau:
+* Có thể là cấu trúc đồng âm hoặc tăng âm
+Tăng cường âm phía sau
+Chèn ép vào các tạng xung quanh
+Tất cả các ý trên
+
+Câu 58.  Hình ảnh nào không phải là hình ảnh của nang gan đơn thuần:
+Hình ảnh nang trống âm
+Có tăng cường âm phía sau
+* Nang thường nằm cạnh đường mật 
+Có thể gặp một hoặc nhiều nang kích thước khác nhau
+
+Câu 59.  Vị trí thường gặp trong u máu là:
+* Nằm sát vòm hoành
+Nằm xa các mạch máu lớn
+Nằm sát góc gan
+Tất cả các ý trên
+
+Câu 60.  Cột 1: Nang gan có tính chất tăng cường âm phía sau
+</br> vì Cột 2: Sóng siêu âm đi qua nang tập trung ở thành sau nang
+* Cột 1 đúng, cột 2 đúng và cột 2 giải thích được cho cột 1
+Cột 1 đúng, cột 2 đúng và cột 2 không giải thích được cho cột 1
+Cột 1 đúng, cột 2 sai
+Cột 1 sai, cột 2 đúng
+
+Câu 61.  Dấu hiệu mắt bò trong siêu âm di căn tại gan là:
+Vòng ngoài tăng âm, vòng trong giảm âm
+Vòng ngoài tăng âm, vòng trong tăng âm
+Vòng ngoài giản âm, vòng trong giảm âm
+* Vòng ngoài giảm âm, vòng trong tăng âm
+
+Câu 62.  Các tổn thương lành tính trong nhu mô gan, ngoại trừ:
+Sỏi gan
+Nang gan
+U máu
+* Áp xe gan
+
+Câu 63.  Cấu trúc nang gan khác u máu trong nhu mô gan ở tính chất:
+* Bẩn chất bên trong trống âm
+Bản chất bên trong đồng hồi âm
+Bản chất bên trong tăng âm
+Bản chất bên trong hỗn hợp âm
+
+Câu 64.  Đường Kerley B là biểu hiện của:
+Ứ trệ tuần hoàn ngoại vi.
+Sung huyết động mạch phổi.
+* Phù tổ chức kẽ của các vách liên tiểu thùy.
+Ứ trệ tuần hoàn phổi.
+
+Câu 65.  Hình ảnh gợi ý tràn dịch màng ngoài tim trên phim X quang là:
+Bóng tim to hình tam giác, Bóng tim không đập.
+Bóng tim to tương phản với không thay đổi mạch rốn phổi. 
+Bóng tim to tương xứng với thay đổi mạch rốn phổi.
+* Bóng tim bị biến dạng
+
+Câu 66.  Trong bệnh lý tâm phế mạn ta thường thấy:
+Tim trái to.
+* Tim phải to.
+Động mạch phổi giãn và nhĩ trái to.
+Động mạch chủ giãn và thất trái lớn.
+
+Câu 67.  Phương pháp CĐHA tốt nhất hiện nay trong chẩn đoán phình động mạch chủ là:
+Siêu âm Doppler màu.
+Chụp mạch máu.
+* Chụp cắt lớp vi tính nhiều lát cắt.
+Chụp cộng hưởng từ.
+Chẩn đoán hình ảnh hệ tiêu hoá
+
+Câu 68.  Thực quản bình thường chia làm mấy đoạn:
+* 3 đoạn
+2 đoạn
+4 đoạn
+5 đoạn
+
+Câu 69.  Trong tổn thương hẹp thực quản:
+* Những hình hẹp ác tính thường lệch trục, bờ không đều, vùng nối tiếp giữa phần lành và phần tổn thương dốc đứng.
+Những hình hẹp ác tính thuờng lệch trục, bờ không đều, vùng nối tiếp giũă phần lành và phần tổn thương chuyển đổi từ từ.
+Những hình hẹp ác tính thuờng thẳng trục, bờ không đều, vùng nối tiếp giũă phần lành và phần tổn thương chuyển đổi từ từ.
+Những hình hẹp ác tính thuờng thẳng trục, bờ không đều, vùng nối tiếp giũă phần lành và phần tổn thương dốc đứng.
+
+Câu 70.  Trên phim Xquang chụp thực quản có sử dụng thuốc cản quang:
+* Hình khuyết: Hình thành do khối tăng sinh trong lòng thực quản hoặc thực quản bị đè từ ngoài vào.
+Hình khuyết: Là những ổ đọng thuốc lồi lên trên bờ thực quản, thường hay ở vùng 1/3 duới thực quản do chứng trào ngược dạ dày- thực quản.
+Hình khuyết: Là một đoạn của bờ thực quản mất sóng nhu động và có thể sụt vào trong lòng biểu hiện của sự dày khu trú của thành thực quản, thuờng gặp trong ung thư thể thâm nhiễm.
+Hình khuyết: Chỉ có thể thấy trong nội soi thực quản chứ không thấy trên phim chụp Xquang có sử dụng thuốc cản quang.
+
+Câu 71.  Trong bệnh lý ung thư thực quản, hiện nay chẩn đoán xác định chủ yếu dựa vào:
+Chụp Xquang sử dụng thuốc cản quang.
+Chụp CT_Scaner.
+Chụp MRI.
+* Nội soi kết hợp với sinh thiết.
+
+Câu 72.  - Để tăng độ tương phản (đối quang) ống tiêu hóa, người ta thường xử dụng:
+Chất cản quang tan trong nước, chất cản quang dưới dạng sữ
+Sữa barít, chất cản quang có chứa Iode.
+Chất cản quang tan trong dầu.
+* Đối quang kép.
+
+Câu 73.  - Phương pháp chẩn đoán hình ảnh để đánh giá tốt nhất hệ tiêu hoá là:
+Siêu âm, Cộng hưởng từ.
+* Cắt lớp vi tính.
+X quang không chuẩn bị.
+X quang có chuẩn bị.
+
+Câu 74.  Cột 1: Sỏi ở đài thận thường gây ứ nước ở bể thận </br> Vì Cột 2: Sỏi gây chèn ép vào các đài thận
+Cột 1 đúng, cột 2 đúng và cột 2 giải thích được cho cột 1
+Cột 1 đúng, cột 2 đúng và cột 2 không giải thích được cho cột 1
+Cột 1 đúng, cột 2 sai
+* Cột 1 sai, cột 2 đúng
+
+Câu 75.  Cột 1: Sỏi thận thường có bóng cản ở phía sau </br>Vì Cột 2: khi sóng siêu âm đi qua tổ chức tăng âm hấp thụ hết toàn bộ năng lượng
+* Cột 1 đúng, cột 2 đúng và cột 2 giải thích được cho cột 1
+Cột 1 đúng, cột 2 đúng và cột 2 không giải thích được cho cột 1
+Cột 1 đúng, cột 2 sai
+Cột 1 sai, cột 2 đúng
+
+Câu 76.  Sỏi niệu quản có thể gây ứ nước ở thân các mức độ sau:
+Độ I. II
+Độ I. II.III
+* Độ I. II. III. IV
+Độ I. II. III. IV. V
+
+Câu 77.  Siêu âm về sản khoa là phương pháp:
+Không ảnh hưởng tới thai nhi
+Trong suốt thai kỳ, lý tưởng nhất là được siêu âm 3 lần
+Giá trị hình ảnh và số đo thu được tùy thuộc vào kinh nghiệm của người đọc
+* Tất cả các ý trên
+
+Câu 78.  Rau tiên đạo trên hình ảnh siêu âm được chẩn đoán vào thời kỳ
+Thai 3 tháng đầu
+Thai 3 tháng giữa
+* Thai 3 tháng cuối
+Tất cả các ý trên 
+
+Câu 79.  Trên hình ảnh siêu âm thấy nhịp tim thai vào thời điểm:
+Thai 5 tuần
+* Thai 6 tuần
+Thai 7 tuần
+Thai 8 tuần
+
+Câu 80.  Thời điểm để đo khoảng sang sau gáy:
+Từ 10 tuần đến 13 tuần
+Từ 10 tuần đến 14 tuần
+Từ 11 tuần đến 13 tuần
+* Từ 11 tuần đến 14 tuần
